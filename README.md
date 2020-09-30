@@ -19,15 +19,6 @@ Here are some ideas to get you started:
 ⏱ Weekly coding time
 
 <!--START_SECTION:waka-->
-```text
-Week: 22 September, 2020 - 29 September, 2020
-
-Go         10 hrs 51 mins  ███████████████████████░░   91.39 % 
-YAML       35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-Rust       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-TOML       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Markdown   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-```
 <!--END_SECTION:waka-->
 
 [![LyleLuo's github stats](https://github-readme-stats.vercel.app/api?username=LyleLuo&count_private=true&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
