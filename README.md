@@ -30,5 +30,5 @@ Markdown   6 mins          ▒░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-[![LyleLuo's github stats](https://github-readme-stats.vercel.app/api?username=LyleLuo)](https://github.com/anuraghazra/github-readme-stats)  
+[![LyleLuo's github stats](https://github-readme-stats.vercel.app/api?username=LyleLuo)](https://github.com/anuraghazra/github-readme-stats){:height="100px"} 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyleLuo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
