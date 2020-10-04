@@ -22,9 +22,6 @@ Here are some ideas to get you started:
 ⏱ Weekly coding time
 
 <!--START_SECTION:waka-->
-```text
-
-```
 <!--END_SECTION:waka-->
 
 [![LyleLuo's github stats](https://github-readme-stats.vercel.app/api?username=LyleLuo&count_private=true&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
