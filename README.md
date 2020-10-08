@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 September, 2020 - 06 October, 2020
+Week: 30 September, 2020 - 07 October, 2020
 
 Objective-C   9 hrs 3 mins    ████████████████████████░   96.05 % 
 XML           21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
