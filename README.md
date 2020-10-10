@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 October, 2020 - 08 October, 2020
+Week: 02 October, 2020 - 09 October, 2020
 
-Objective-C   9 hrs 3 mins    ████████████████████████░   96.05 % 
-XML           21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Objective-C   10 hrs 51 mins  ██████████████████████▒░░   89.06 % 
+Markdown      57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+XML           21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 ```
 <!--END_SECTION:waka-->
 
