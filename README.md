@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 October, 2020 - 12 October, 2020
+Week: 06 October, 2020 - 13 October, 2020
 
-Go            7 hrs 52 mins   ███████████▒░░░░░░░░░░░░░   45.11 % 
-Objective-C   4 hrs 14 mins   ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-Markdown      3 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.67 % 
-Other         1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-Bash          30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Go            7 hrs 52 mins   █████████████░░░░░░░░░░░░   52.50 % 
+Markdown      3 hrs 15 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.73 % 
+Objective-C   1 hr 47 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Other         1 hr 21 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Bash          30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 ```
 <!--END_SECTION:waka-->
 
