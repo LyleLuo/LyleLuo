@@ -34,5 +34,5 @@ JSON       14 mins         ▒░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 [![LyleLuo's github stats](https://github-readme-stats.vercel.app/api?username=LyleLuo&count_private=true&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyleLuo&layout=compact)](https://github.com/LyleLuo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyleLuo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![LyleLuo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luowle)](https://github.com/anuraghazra/github-readme-stats)-->
