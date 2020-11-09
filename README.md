@@ -23,10 +23,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 October, 2020 - 07 November, 2020
+Week: 01 November, 2020 - 08 November, 2020
 
-Objective-C   1 hr 48 mins    ████████████████████▓░░░░   82.98 % 
-Go            21 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Go     2 hrs 8 mins    █████████████████████████   99.54 % 
 ```
 <!--END_SECTION:waka-->
 
