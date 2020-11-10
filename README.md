@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 November, 2020 - 08 November, 2020
+Week: 02 November, 2020 - 09 November, 2020
 
-Go     2 hrs 8 mins    █████████████████████████   99.54 % 
+Go         10 hrs 25 mins  █████████████████████░░░░   83.78 % 
+Markdown   1 hr 59 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
 ```
 <!--END_SECTION:waka-->
 
