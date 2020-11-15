@@ -23,11 +23,13 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 November, 2020 - 13 November, 2020
+Week: 07 November, 2020 - 14 November, 2020
 
-Objective-C   23 hrs 12 mins  ██████████████▒░░░░░░░░░░   57.43 % 
-Go            11 hrs 1 min    ██████▓░░░░░░░░░░░░░░░░░░   27.28 % 
-Markdown      6 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Objective-C   23 hrs 38 mins  █████████████▒░░░░░░░░░░░   53.05 % 
+Go            11 hrs 6 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.93 % 
+Markdown      6 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+C             2 hrs 57 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Makefile      40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 ```
 <!--END_SECTION:waka-->
 
