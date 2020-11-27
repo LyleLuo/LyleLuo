@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 November, 2020 - 25 November, 2020
+Week: 19 November, 2020 - 26 November, 2020
 
 Go            3 hrs 33 mins   ████████▓░░░░░░░░░░░░░░░░   34.12 % 
 C             3 hrs 5 mins    ███████▒░░░░░░░░░░░░░░░░░   29.61 % 
