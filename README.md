@@ -23,11 +23,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 November, 2020 - 29 November, 2020
+Week: 23 November, 2020 - 30 November, 2020
 
-Markdown   11 mins         █████████████████░░░░░░░░   68.54 % 
-TeX        3 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.20 % 
-JSON       1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+TeX      2 mins          █████████████▓░░░░░░░░░░░   54.92 % 
+JSON     1 min           █████████░░░░░░░░░░░░░░░░   35.81 % 
 ```
 <!--END_SECTION:waka-->
 
