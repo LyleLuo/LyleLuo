@@ -23,10 +23,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 November, 2020 - 30 November, 2020
+Week: 24 November, 2020 - 01 December, 2020
 
-TeX      2 mins          █████████████▓░░░░░░░░░░░   54.92 % 
-JSON     1 min           █████████░░░░░░░░░░░░░░░░   35.81 % 
+Objective-C   1 hr 57 mins    ███████████████████████▓░   94.53 % 
+Other         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Groff         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Bash          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 ```
 <!--END_SECTION:waka-->
 
