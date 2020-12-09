@@ -23,13 +23,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 November, 2020 - 07 December, 2020
+Week: 01 December, 2020 - 08 December, 2020
 
-Objective-C   19 hrs 6 mins   █████████████████░░░░░░░░   68.26 % 
-C             6 hrs 56 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.81 % 
-Cocoa         1 hr 49 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Other         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Groff         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Objective-C   17 hrs 9 mins   █████████████▒░░░░░░░░░░░   53.85 % 
+C             12 hrs 51 mins  ██████████░░░░░░░░░░░░░░░   40.35 % 
+Cocoa         1 hr 49 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Makefile      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 <!--END_SECTION:waka-->
 
