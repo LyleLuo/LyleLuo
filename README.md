@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2020 - 09 December, 2020
+Week: 03 December, 2020 - 10 December, 2020
 
-C             18 hrs 24 mins  ███████████████▓░░░░░░░░░   62.43 % 
-Objective-C   9 hrs 48 mins   ████████▒░░░░░░░░░░░░░░░░   33.26 % 
-Cocoa         1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-XML           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+C             18 hrs 24 mins  ███████████████░░░░░░░░░░   59.76 % 
+Objective-C   12 hrs 10 mins  ██████████░░░░░░░░░░░░░░░   39.48 % 
+XML           6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Cocoa         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 Makefile      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 <!--END_SECTION:waka-->
