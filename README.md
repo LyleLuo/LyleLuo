@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 December, 2020 - 17 December, 2020
+Week: 11 December, 2020 - 18 December, 2020
 
-Objective-C   3 hrs 54 mins   ███████████▒░░░░░░░░░░░░░   45.35 % 
-C++           1 hr 49 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.22 % 
-C             1 hr 28 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.02 % 
-Markdown      27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Other         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+C++           1 hr 49 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.74 % 
+C             1 hr 28 mins    █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Objective-C   1 hr 4 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Go            59 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Markdown      45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
 ```
 <!--END_SECTION:waka-->
 
