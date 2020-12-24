@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 December, 2020 - 22 December, 2020
+Week: 16 December, 2020 - 23 December, 2020
 
 TypeScript   6 hrs 18 mins   ████████████░░░░░░░░░░░░░   47.43 % 
 Go           4 hrs 58 mins   █████████▒░░░░░░░░░░░░░░░   37.38 % 
