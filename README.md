@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 December, 2020 - 26 December, 2020
+Week: 20 December, 2020 - 27 December, 2020
 
-TypeScript   5 hrs 13 mins   ███████████▓░░░░░░░░░░░░░   46.15 % 
-Go           3 hrs 32 mins   ███████▓░░░░░░░░░░░░░░░░░   31.29 % 
-C++          1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Markdown     1 hr 10 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+TypeScript   2 hrs 57 mins   ██████████▓░░░░░░░░░░░░░░   43.08 % 
+C++          1 hr 22 mins    █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Go           1 hr 21 mins    █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+Markdown     1 hr 10 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.18 % 
 ```
 <!--END_SECTION:waka-->
 
