@@ -23,9 +23,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 December, 2020 - 03 January, 2021
+Week: 28 December, 2020 - 04 January, 2021
 
-C++   57 mins         █████████████████████████   100.00 % 
+C++           57 mins         █████████████████▒░░░░░░░   68.87 % 
+Other         13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Objective-C   11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 % 
 ```
 <!--END_SECTION:waka-->
 
