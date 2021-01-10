@@ -1,8 +1,6 @@
 ### Hi there 👋
 <!--I have been a GitHub member for [![Years Badge](https://badges.pufler.dev/years/LyleLuo)](https://badges.pufler.dev)-->
 - 🌱 I will earn a bachelor's degree in software engineering in 2022.
-- 🤔 I’m learning Service computing, Information security, Blockchain.
-- 😄 I'm interested in Edge computing, Federated learning and Game theory.
 - 💬 Contact me by email luowle@foxmail.com
 <!--
 **LyleLuo/LyleLuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
