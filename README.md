@@ -21,13 +21,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 January, 2021 - 11 January, 2021
+Week: 05 January, 2021 - 12 January, 2021
 
-Objective-C   19 hrs 16 mins  ██████████████████████░░░   87.39 % 
-C++           2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-XML           27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-Markdown      6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-Other         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Objective-C   14 hrs 29 mins  █████████████████████▓░░░   86.31 % 
+C++           2 hrs 11 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Markdown      6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 <!--END_SECTION:waka-->
 
