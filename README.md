@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 January, 2021 - 21 January, 2021
+Week: 15 January, 2021 - 22 January, 2021
 
-Python        9 hrs 22 mins   █████████████████████▒░░░   85.48 % 
-Objective-C   55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Markdown      39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Python        13 hrs 16 mins  ██████████████████████▒░░   89.28 % 
+Objective-C   55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Markdown      39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 ```
 <!--END_SECTION:waka-->
 
