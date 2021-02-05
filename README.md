@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 January, 2021 - 03 February, 2021
+Week: 28 January, 2021 - 04 February, 2021
 
-Python       9 hrs 20 mins   ███████████████████████▓░   94.18 % 
-Go           22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Python       7 hrs 5 mins    ███████████████████████░░   92.47 % 
+Go           22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Git Config   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 ```
 <!--END_SECTION:waka-->
 
