@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 February, 2021 - 11 February, 2021
+Week: 05 February, 2021 - 12 February, 2021
 
-Python       4 hrs 10 mins   ████████████████████████░   96.02 % 
-Markdown     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
-Text         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Python     1 hr 9 mins     ██████████████████████░░░   87.46 % 
+Markdown   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Text       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 <!--END_SECTION:waka-->
 
