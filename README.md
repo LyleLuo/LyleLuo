@@ -21,12 +21,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 February, 2021 - 12 February, 2021
-
-Python     1 hr 9 mins     ██████████████████████░░░   87.46 % 
-Markdown   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-Text       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
