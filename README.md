@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 March, 2021 - 16 March, 2021
+Week: 10 March, 2021 - 17 March, 2021
 
 Python   2 hrs 28 mins   ████████████████████░░░░░   79.96 % 
 C++      37 mins         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
