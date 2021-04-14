@@ -21,10 +21,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 April, 2021 - 11 April, 2021
+Week: 06 April, 2021 - 13 April, 2021
 
-Python   25 mins         █████████████████████░░░░   83.83 % 
-Other    4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Other   4 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
