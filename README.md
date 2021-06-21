@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 13 June, 2021 - 20 June, 2021
+
+C          8 hrs 58 mins   █████████████████████████   99.76 % 
+Makefile   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 <!--END_SECTION:waka-->
 
