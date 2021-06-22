@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 June, 2021 - 20 June, 2021
+Week: 14 June, 2021 - 21 June, 2021
 
-C          8 hrs 58 mins   █████████████████████████   99.76 % 
-Makefile   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+C          9 hrs 21 mins   █████████████████████████   99.77 % 
+Makefile   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 <!--END_SECTION:waka-->
 
