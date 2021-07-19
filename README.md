@@ -21,12 +21,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 July, 2021 - 17 July, 2021
+Week: 12 July, 2021 - 18 July, 2021
 
-Other      17 hrs 1 min    ███████████████████▓░░░░░   78.77 % 
-Markdown   4 hrs 22 mins   █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-Python     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-HTML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Other      13 hrs 27 mins  ███████████████████░░░░░░   75.40 % 
+Markdown   4 hrs 22 mins   ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
+HTML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 <!--END_SECTION:waka-->
 
