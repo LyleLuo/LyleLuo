@@ -21,10 +21,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 July, 2021 - 21 July, 2021
+Week: 16 July, 2021 - 22 July, 2021
 
-Markdown   4 hrs 22 mins   █████████████████████████   99.59 % 
-HTML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Markdown   1 hr 55 mins    █████████████████████████   99.87 % 
 ```
 <!--END_SECTION:waka-->
 
