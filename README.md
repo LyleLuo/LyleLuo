@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 August, 2021 - 23 August, 2021
+Week: 18 August, 2021 - 24 August, 2021
 
-C             5 hrs 15 mins   ████████████████████░░░░░   80.62 % 
-Cuda          52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Other         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+C             5 hrs 58 mins   ███████████████████▒░░░░░   77.62 % 
+Cuda          1 hr 19 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Other         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 ```
 <!--END_SECTION:waka-->
 
