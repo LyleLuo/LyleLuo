@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 August, 2021 - 29 August, 2021
+Week: 24 August, 2021 - 30 August, 2021
 
 C       4 hrs 23 mins   ██████████████▒░░░░░░░░░░   57.39 % 
 Cuda    2 hrs 33 mins   ████████▒░░░░░░░░░░░░░░░░   33.31 % 
