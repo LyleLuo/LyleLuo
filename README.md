@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 August, 2021 - 02 September, 2021
+Week: 28 August, 2021 - 03 September, 2021
 
 Other      12 mins         █████████████████▓░░░░░░░   70.06 % 
 CMake      3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.75 % 
