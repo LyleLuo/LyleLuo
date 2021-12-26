@@ -21,7 +21,13 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 19 December, 2021 - 25 December, 2021
+
+Cuda     1 hr 58 mins    █████████░░░░░░░░░░░░░░░░   36.16 % 
+YAML     1 hr 16 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.32 % 
+C++      42 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Python   38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Bash     29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 ```
 <!--END_SECTION:waka-->
 
