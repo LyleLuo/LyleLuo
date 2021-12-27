@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 December, 2021 - 25 December, 2021
+Week: 20 December, 2021 - 26 December, 2021
 
-Cuda     1 hr 58 mins    █████████░░░░░░░░░░░░░░░░   36.16 % 
-YAML     1 hr 16 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.32 % 
-C++      42 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Python   38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Bash     29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Cuda     1 hr 58 mins    █████████░░░░░░░░░░░░░░░░   36.50 % 
+YAML     1 hr 16 mins    ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+C++      42 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Python   38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+Bash     29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
 ```
 <!--END_SECTION:waka-->
 
