@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 December, 2021 - 29 December, 2021
+Week: 24 December, 2021 - 30 December, 2021
 
-Markdown   4 hrs 33 mins   ██████████▓░░░░░░░░░░░░░░   42.58 % 
-Cuda       1 hr 58 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.49 % 
-YAML       1 hr 16 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-C++        45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-TOML       40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Markdown   5 hrs 37 mins   ███████████████████▒░░░░░   77.65 % 
+TOML       54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+C++        19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+CSV        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+SCSS       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 <!--END_SECTION:waka-->
 
