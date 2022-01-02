@@ -21,13 +21,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 December, 2021 - 31 December, 2021
+Week: 26 December, 2021 - 01 January, 2022
 
-Markdown   5 hrs 37 mins   ███████████████████▒░░░░░   77.65 % 
-TOML       54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-C++        19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-CSV        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-SCSS       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Markdown   5 hrs 37 mins   █████████████████████░░░░   84.02 % 
+TOML       54 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+SCSS       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+C++        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 ```
 <!--END_SECTION:waka-->
 
