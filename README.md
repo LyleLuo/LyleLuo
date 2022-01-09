@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 January, 2022 - 07 January, 2022
+Week: 02 January, 2022 - 08 January, 2022
 
-Markdown   31 mins         ███████████░░░░░░░░░░░░░░   43.68 % 
-SCSS       17 mins         ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
-TOML       7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-CSS        7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Other      6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Markdown   3 hrs 59 mins   █████████████████████▒░░░   85.38 % 
+SCSS       17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+TOML       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+CSS        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Other      6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 <!--END_SECTION:waka-->
 
