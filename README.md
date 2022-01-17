@@ -21,13 +21,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2022 - 15 January, 2022
+Week: 10 January, 2022 - 16 January, 2022
 
-Markdown       47 mins         ██████████▒░░░░░░░░░░░░░░   41.85 % 
-TeX            28 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.47 % 
-Other          24 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.49 % 
-OpenEdge ABL   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-BST            4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Other      2 hrs 56 mins   █████████████████████▒░░░   84.88 % 
+Markdown   31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 % 
 ```
 <!--END_SECTION:waka-->
 
