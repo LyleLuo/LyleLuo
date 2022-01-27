@@ -21,11 +21,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 January, 2022 - 25 January, 2022
+Week: 20 January, 2022 - 26 January, 2022
 
-Other      2 hrs 16 mins   ██████████████████████░░░   88.44 % 
-Markdown   11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-C++        6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Markdown   5 hrs 34 mins   ████████████████████████▓   98.08 % 
+C++        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 <!--END_SECTION:waka-->
 
