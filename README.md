@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 ⏱ Weekly coding time
 
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-Python   4 hrs 41 mins   ██████████████████████▒░░   89.82 % 
-Other    24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
-YAML     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Bash     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Python       7 hrs 57 mins   ███████████████████████▒░   93.73 %
+Other        24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
 ```
+
 <!--END_SECTION:waka-->
 
 [![LyleLuo's github stats](https://github-readme-stats.vercel.app/api?username=LyleLuo&count_private=true&show_icons=true&hide=issues&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
