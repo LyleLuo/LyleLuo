@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 March 2022 - To: 17 March 2022
+From: 11 March 2022 - To: 18 March 2022
 
-Python   30 hrs 41 mins  ███████████████████▒░░░░░   76.92 %
-JSON     5 hrs 14 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
-Bash     1 hr 55 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-YAML     1 hr 40 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-Other    15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Python       31 hrs 22 mins  ██████████████████▓░░░░░░   74.42 %
+JSON         5 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
+YAML         2 hrs 27 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Bash         1 hr 49 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+Other        1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->
