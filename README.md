@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 May 2022 - To: 23 May 2022
+From: 17 May 2022 - To: 24 May 2022
 
-Markdown   3 hrs 43 mins   ██████████████████████▓░░   90.42 %
-TOML       21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-HTML       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-SCSS       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Markdown     3 hrs 46 mins   ███████████████████▓░░░░░   78.09 %
+TOML         23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
+C++          18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+Other        16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
 ```
 
 <!--END_SECTION:waka-->
