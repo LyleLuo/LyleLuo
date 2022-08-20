@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 August 2022 - To: 18 August 2022
+From: 12 August 2022 - To: 19 August 2022
 
-Markdown   6 hrs 39 mins   ████████████████████░░░░░   79.90 %
-C++        1 hr 18 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.73 %
-Other      16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+Markdown   3 hrs 21 mins   ██████████████████░░░░░░░   72.02 %
+C++        1 hr 6 mins     ██████░░░░░░░░░░░░░░░░░░░   23.63 %
+Other      9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
 ```
 
 <!--END_SECTION:waka-->
