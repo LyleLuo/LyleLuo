@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 August 2022 - To: 25 August 2022
+From: 19 August 2022 - To: 26 August 2022
 
-C++          4 hrs 21 mins   ████████████████████░░░░░   80.20 %
-Other        21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 %
+C++          3 hrs 54 mins   ███████████████████▓░░░░░   79.27 %
+Other        20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
 ```
 
 <!--END_SECTION:waka-->
