@@ -22,11 +22,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 September 2022 - To: 10 September 2022
+From: 05 September 2022 - To: 12 September 2022
 
-Python     2 hrs 36 mins   ███████████████████▓░░░░░   78.91 %
-Makefile   18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
-Other      11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+Python     3 hrs           ████████████████████████░   95.78 %
+CSV        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
