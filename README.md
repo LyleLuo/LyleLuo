@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 September 2022 - To: 14 September 2022
+From: 08 September 2022 - To: 15 September 2022
 
 Python     1 hr 13 mins    ██████████████████░░░░░░░   71.36 %
 Markdown   23 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
