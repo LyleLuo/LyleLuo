@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 September 2022 - To: 05 October 2022
+From: 29 September 2022 - To: 06 October 2022
 
-Makefile   3 hrs 1 min     ████████████░░░░░░░░░░░░░   48.65 %
-C++        1 hr 10 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.94 %
-Cuda       1 hr 10 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.77 %
-Text       27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-C          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-Other      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Makefile   3 hrs 1 min     ████████████░░░░░░░░░░░░░   48.10 %
+C++        1 hr 15 mins    █████░░░░░░░░░░░░░░░░░░░░   19.87 %
+Cuda       1 hr 10 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.56 %
+Text       27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+C          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Other      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
