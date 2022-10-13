@@ -22,11 +22,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 October 2022 - To: 11 October 2022
+From: 05 October 2022 - To: 12 October 2022
 
-Makefile   23 mins         ████████████████▓░░░░░░░░   67.12 %
-C++        11 mins         ████████░░░░░░░░░░░░░░░░░   32.21 %
-CSV        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+C++   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
