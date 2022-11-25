@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 November 2022 - To: 23 November 2022
+From: 17 November 2022 - To: 24 November 2022
 
-Cuda       4 hrs 14 mins   ██████████▓░░░░░░░░░░░░░░   42.36 %
-Markdown   3 hrs 14 mins   ████████░░░░░░░░░░░░░░░░░   32.44 %
-Python     1 hr 50 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
-C          41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+Cuda       4 hrs 37 mins   ████████████░░░░░░░░░░░░░   48.17 %
+Markdown   2 hrs 26 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.53 %
+Python     1 hr 50 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.13 %
+C          41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
 ```
 
 <!--END_SECTION:waka-->
