@@ -22,13 +22,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 November 2022 - To: 03 December 2022
+From: 27 November 2022 - To: 04 December 2022
 
-Python       3 hrs 43 mins   ████████████████░░░░░░░░░   64.22 %
-C            54 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
-Cuda         29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
-Bash         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
-Other        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Python       4 hrs 49 mins   ██████████████████████░░░   87.37 %
+Bash         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+Other        12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
 ```
 
 <!--END_SECTION:waka-->
