@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 December 2022 - To: 11 December 2022
+From: 05 December 2022 - To: 12 December 2022
 
-Python       10 hrs 6 mins   ████████████████████▓░░░░   82.20 %
-Other        58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+Python       5 hrs 44 mins   ██████████████████░░░░░░░   71.51 %
+Other        32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
 ```
 
 <!--END_SECTION:waka-->
