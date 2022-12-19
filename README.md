@@ -22,12 +22,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 December 2022 - To: 17 December 2022
+From: 11 December 2022 - To: 18 December 2022
 
-Cuda         18 hrs 47 mins  ███████████████████░░░░░░   76.19 %
-C            3 hrs 3 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
-Python       1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-Other        28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Cuda       19 hrs 43 mins  ████████████████████▒░░░░   81.40 %
+C          3 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
+Makefile   38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Python     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Markdown   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+JSON       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
