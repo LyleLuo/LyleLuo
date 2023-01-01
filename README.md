@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 December 2022 - To: 30 December 2022
+From: 24 December 2022 - To: 31 December 2022
 
-C++          9 hrs 42 mins   █████████████▓░░░░░░░░░░░   54.27 %
-Python       5 hrs 58 mins   ████████▒░░░░░░░░░░░░░░░░   33.37 %
-Makefile     1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
-CMake        36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
-C            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+C++          8 hrs 5 mins    ██████████████░░░░░░░░░░░   56.37 %
+Python       5 hrs 10 mins   █████████░░░░░░░░░░░░░░░░   36.07 %
+CMake        36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Makefile     20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+C            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
