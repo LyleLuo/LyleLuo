@@ -22,10 +22,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 December 2022 - To: 07 January 2023
+From: 01 January 2023 - To: 08 January 2023
 
-Cuda    4 mins          █████████████████░░░░░░░░   67.48 %
-Other   2 mins          ████████░░░░░░░░░░░░░░░░░   32.52 %
+Other   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
