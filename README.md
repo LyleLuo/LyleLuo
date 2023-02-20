@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 February 2023 - To: 18 February 2023
+From: 12 February 2023 - To: 19 February 2023
 
 C++      1 min           ████████████▓░░░░░░░░░░░░   50.19 %
 Other    0 secs          ███████▒░░░░░░░░░░░░░░░░░   28.82 %
