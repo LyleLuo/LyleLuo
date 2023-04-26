@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 April 2023 - To: 24 April 2023
+From: 18 April 2023 - To: 25 April 2023
 
-Python       12 hrs 58 mins  ███████████████████████▓░   94.24 %
-Bash         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Python       12 hrs 15 mins  ████████████████████████░   95.96 %
+Bash         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
