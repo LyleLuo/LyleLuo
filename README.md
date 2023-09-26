@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2023 - To: 24 September 2023
+From: 18 September 2023 - To: 25 September 2023
 
 ActionScript   2 mins          ███████████████████████░░   92.16 %
 Bash           0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
