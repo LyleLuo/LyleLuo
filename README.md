@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 January 2024 - To: 31 January 2024
+From: 25 January 2024 - To: 01 February 2024
 
-Cuda         1 hr 52 mins    █████████▒░░░░░░░░░░░░░░░   37.67 %
-Python       1 hr 14 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.01 %
-INI          54 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.21 %
-Other        38 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
-Bash         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+Cuda     2 hrs 42 mins   ████████████▒░░░░░░░░░░░░   49.98 %
+Other    2 hrs 19 mins   ██████████▓░░░░░░░░░░░░░░   42.88 %
+Bash     12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+INI      8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Python   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
