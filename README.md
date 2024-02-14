@@ -22,13 +22,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2024 - To: 12 February 2024
+From: 06 February 2024 - To: 13 February 2024
 
-Cuda         48 mins         ███████████████▓░░░░░░░░░   63.18 %
-Bash         10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
-Other        7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-Git Config   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
-C            3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+Cuda    20 mins         ██████████████████░░░░░░░   72.15 %
+Other   7 mins          ███████░░░░░░░░░░░░░░░░░░   27.85 %
 ```
 
 <!--END_SECTION:waka-->
