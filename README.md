@@ -22,11 +22,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 March 2024 - To: 08 March 2024
+From: 02 March 2024 - To: 09 March 2024
 
-C++        0 secs          ████████████░░░░░░░░░░░░░   48.11 %
-Markdown   0 secs          ███████████▒░░░░░░░░░░░░░   45.69 %
-Bash       0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+C++        0 secs          █████████▓░░░░░░░░░░░░░░░   38.00 %
+Markdown   0 secs          █████████░░░░░░░░░░░░░░░░   36.09 %
+Makefile   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
+Other      0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Bash       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
 ```
 
 <!--END_SECTION:waka-->
