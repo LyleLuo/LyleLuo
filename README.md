@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2025 - To: 10 August 2025
+From: 04 August 2025 - To: 11 August 2025
 
-Cuda     8 hrs 9 mins    █████████████▓░░░░░░░░░░░   54.30 %
-C++      5 hrs 32 mins   █████████▒░░░░░░░░░░░░░░░   36.88 %
-Python   53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-Other    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-JSON     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Cuda     9 hrs 51 mins   █████████████▒░░░░░░░░░░░   53.55 %
+C++      7 hrs 4 mins    █████████▓░░░░░░░░░░░░░░░   38.43 %
+Python   1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+Other    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+JSON     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->
