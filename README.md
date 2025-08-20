@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 August 2025 - To: 18 August 2025
+From: 12 August 2025 - To: 19 August 2025
 
-C++        16 hrs 21 mins  ██████████████░░░░░░░░░░░   56.40 %
-Cuda       9 hrs 40 mins   ████████▒░░░░░░░░░░░░░░░░   33.34 %
-Bash       1 hr 42 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-Other      25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-CMake      24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+C++        16 hrs 4 mins   ██████████████▓░░░░░░░░░░   59.22 %
+Cuda       6 hrs 49 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.15 %
+Bash       2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
+Text       57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+Other      29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
