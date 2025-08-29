@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2025 - To: 27 August 2025
+From: 21 August 2025 - To: 28 August 2025
 
-C++      21 mins         ██████████████████████▓░░   90.25 %
-Python   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+C++    25 mins         █████████████████▓░░░░░░░   70.50 %
+JSON   10 mins         ███████▒░░░░░░░░░░░░░░░░░   29.50 %
 ```
 
 <!--END_SECTION:waka-->
