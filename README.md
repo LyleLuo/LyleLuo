@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2025 - To: 30 August 2025
+From: 24 August 2025 - To: 31 August 2025
 
 C++    30 mins         ███████████░░░░░░░░░░░░░░   43.97 %
 Cuda   17 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.14 %
